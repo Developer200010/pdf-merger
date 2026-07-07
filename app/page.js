@@ -7,8 +7,9 @@ import SplitTool from "../components/SplitTool";
 import ThemeToggle from "../components/ThemeToggle";
 
 // ---- EDIT THESE TWO LINES BEFORE DEPLOYING ----
-const YOUR_NAME = "Your Full Name";
-const YOUR_EMAIL = "your.email@example.com";
+const YOUR_NAME = "Chandan Vishwakarma";
+const YOUR_EMAIL = "chandanvishw11002@gmail.com";
+const YOUR_PHONE = "9281218383";
 // ------------------------------------------------
 
 export default function Home() {
@@ -46,7 +47,7 @@ export default function Home() {
 
       <footer>
         <div>
-          Built by <strong>{YOUR_NAME}</strong> — {YOUR_EMAIL}
+          Built by <strong>{YOUR_NAME}</strong> — <strong>{YOUR_EMAIL}</strong> <i>&</i> <strong>{YOUR_PHONE}</strong>
         </div>
         <a
           className="built-for"

@@ -4,15 +4,6 @@ A free, browser-only PDF merger built with Next.js and `pdf-lib`. No files are
 ever uploaded to a server — everything happens locally in the visitor's
 browser, so it costs nothing to run and there are no privacy concerns.
 
-Built for the Digital Heroes developer trial task.
-
-## Before you deploy
-
-Open `app/page.js` and edit these two lines with your real details:
-
-```js
-const YOUR_NAME = "Your Full Name";
-const YOUR_EMAIL = "your.email@example.com";
 ```
 
 ## Run locally
